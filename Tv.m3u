@@ -1,12 +1,12 @@
 تم تصميم الملف بواسطه @drgg8 
 #EXTINF:-1,beIN Sport 1
-http://gcf.nrslist.com/TVD4001/index.mpd
+https://videos.rtva.ad/live/rtva/playlist.m3u8
 
 #EXTINF:-1,beIN Sport 2
-http://gcf.nrslist.com/TVD4002/index.mpd
+https://videos.rtva.ad/live/rtva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="JOKER SPORT 01 (540)" tvg-logo="https://sharkiptvpro.net/logos/Bein-Logos/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BeIN Sports (A)",BeIN Sport 01 (540)
-http://sharkiptvpro.me:80/mohamedasobhy92/Random123/212349
+https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="JOKER SPORT 02 (540)" tvg-logo="https://sharkiptvpro.net/logos/Bein-Logos/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BeIN Sports (A)",BeIN Sport 02 (540)
 http://sharkiptvpro.me:80/mohamedasobhy92/Random123/212350
 #EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="JOKER SPORT 03 (540)" tvg-logo="https://sharkiptvpro.net/logos/Bein-Logos/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BeIN Sports (A)",BeIN Sport 03 (540)
